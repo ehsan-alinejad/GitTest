@@ -7,4 +7,8 @@
 #git log
 #git diff head
 #git diff --staged
-
+#git rest code1.py
+#git checkout code1.py  //cntrl z
+#git branch
+#git branch readcsv
+#git checkout readcsv //
