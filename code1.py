@@ -3,4 +3,5 @@
 #git init
 #git status
 #git add .  or git add code1.py
+#git commit -m 'hi git'
 #
