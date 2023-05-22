@@ -9,6 +9,14 @@
 #git diff --staged
 #git rest code1.py
 #git checkout code1.py  //cntrl z
-#git branch
-#git branch readcsv
-#git checkout readcsv //
+#git branch//show branches
+#git branch readcsv//sakht branch
+#git checkout readcsv //raftan be an branch
+#git branch -d filename //delete
+#git rm filename//remove file
+#git clone github address//donload file from github
+#git push origin main //add ghanings to github
+#git pull origin main //add ghanings to folder
+#git remote -v//kojay githubim
+#git remote add origin address//from folder to git hub
+#git push origin master //add ghanings to github
